@@ -29,8 +29,8 @@ const Header = () => {
 
     <div className="header-right">
       <svg
-        width="320"
-        height="353"
+        width="395"
+        height="443"
         viewBox="0 0 395 443"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
