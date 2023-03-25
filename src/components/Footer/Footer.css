@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #282828;
+    width: 100%;
+    padding: 4rem 10rem;
+
+}
+
+.footer-left {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 180%;
+
+    text-align: left;
+}
+
+.footer-left>p {
+    color: #FFFFFF;
+}
+
+.footer-right {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 180%;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-bottom: 2rem;
+}
